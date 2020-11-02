@@ -5,6 +5,11 @@ A jQuery Plugin to make masks on form fields and HTML elements.
 [![Code Climate](https://codeclimate.com/github/igorescobar/jQuery-Mask-Plugin.png)](https://codeclimate.com/github/igorescobar/jQuery-Mask-Plugin)
 [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/jquery-mask-plugin/badge?style=rounded)](https://www.jsdelivr.com/package/npm/jquery-mask-plugin)
 
+# Note
+
+This fork contains a patch for caret positioning that was not accepted into upstream. For the ReStructure project it works as needed,
+therefore this fork will be used going forward.
+
 # Documentation, Demos & Usage Examples
 https://igorescobar.github.io/jQuery-Mask-Plugin/
 
